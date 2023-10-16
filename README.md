@@ -14,7 +14,7 @@ Upon running the program, you will see a prompt for the date:
 
 ```date:```
 
-Enter a date in any format but note that only the digits will be used for the cipher.
+Enter a date in any ***Numerical*** format but note that only the digits will be used for the cipher.
 
 Next, you'll see a prompt for the text to be encrypted:
 
